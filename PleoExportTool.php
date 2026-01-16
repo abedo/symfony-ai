@@ -10,7 +10,7 @@
 
 declare(strict_types=1);
 
-namespace Boozt\Tools;
+namespace App\Tools;
 
 use Symfony\AI\Agent\Toolbox\Attribute\AsTool;
 use Symfony\AI\Agent\Toolbox\Source\HasSourcesInterface;
